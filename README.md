@@ -8,7 +8,7 @@
 <br/>
 
 <p>El jar ya generado esta en la carpeta Copilado-jar basta con descargar y dar doble click para correrlo</p>
-<p>en caso en su empresa no se pueda descargar puede generar el jar mediante los siguientes comandos</p>
+<p>en caso en su empresa no se pueda descargar el jar puede descargar la carpeta con los archivos .class y generar el jar mediante los siguientes comandos</p>
 
 <p>Abrir CMD ubicarse en la carpeta con los archivos java</p>
 
